@@ -1,0 +1,24 @@
+{
+	"id": "b440ff5d-b35f-45c9-94d0-114662b0be48",
+	"name": "EnvE",
+	"values": [
+		{
+			"key": "url",
+			"value": "http://dneonline.com/calculator.asmx",
+			"enabled": true
+		},
+		{
+			"key": "numA",
+			"value": "5",
+			"enabled": true
+		},
+		{
+			"key": "numB",
+			"value": "10",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-12-29T10:26:26.809Z",
+	"_postman_exported_using": "Postman/7.36.1"
+}
